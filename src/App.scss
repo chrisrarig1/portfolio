@@ -234,7 +234,9 @@ header h1 {
 }
 
 #resume {
-	background-image: url('../public/images/banner.jpg') ;
+	background-image: url('../src/banner.jpg') ;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .experience-icon {
