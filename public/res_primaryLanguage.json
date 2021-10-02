@@ -59,7 +59,7 @@
       },
       {
         "title": "Coders Pursuit",
-        "startDate": "2015",
+        "startDate": "2020",
         "description": "My first final project during my time at Code Fellows. This page was designed as a movie trivia game that allowed users to answer multiple choice trivia questions. Using local storage we stored the results of the questions and displayed a leaderboard for user comparison",
         "images": [
           "images/portfolio/coders-pursuit/finalproject1.jpg",
