@@ -84,37 +84,33 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Student",
+        "years": "07.2020 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "React"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "CSS",
+          "HTML",
+          "MarkDown"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Zillow",
+        "title": "Senior Mortgage Data Specialist",
+        "years": "07.2019 - Present",
         "mainTech": [
-          "Angular 7/8"
+          "Access/Excel"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Access",
+          "Excel",
+          "Jira",
+          "Jenkins",
+          "VBA"
         ]
       }
     ]
