@@ -29,11 +29,6 @@
           "level": "95"
         },
         {
-          "name": "MarkDown",
-          "class": "devicon-markdown-original",
-          "level": "80"
-        },
-        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"
@@ -45,7 +40,7 @@
         },
         {
           "name": "VSCode",
-          "class": "devicon-vscode-plain",
+          "class": "devicon-visualstudio-plain",
           "level": "65"
         },
         {
@@ -56,6 +51,26 @@
         {
           "name": "GitHub",
           "class": "devicon-github-original",
+          "level": "60"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "60"
+        },
+        {
+          "name": "nodejs",
+          "class": "devicon-nodejs-plain",
+          "level": "60"
+        },
+        {
+          "name": "react",
+          "class": "devicon-react-original-wordmark",
+          "level": "60"
+        },
+        {
+          "name": "Trello",
+          "class": "devicon-trello-plain-wordmark",
           "level": "60"
         }
       ]
