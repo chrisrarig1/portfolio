@@ -88,14 +88,16 @@
         "title": "Student",
         "years": "07.2020 - present",
         "mainTech": [
-          "React"
+          "React.JS",
+          "Python"
         ],
         "technologies": [
           "JavaScript",
           "Bootstrap",
           "CSS",
           "HTML",
-          "MarkDown"
+          "MarkDown",
+          "Python"
         ]
       },
       {
@@ -103,7 +105,7 @@
         "title": "Senior Mortgage Data Specialist",
         "years": "07.2019 - Present",
         "mainTech": [
-          "Access/Excel"
+          "Access/VBA"
         ],
         "technologies": [
           "Access",
